@@ -1,0 +1,289 @@
+TARGET is MEM
+============
+56 128 56 128
+flavor11
+remove (flavor11, 8, 16)
+flavor13
+remove (flavor13, 16, 16)
+flavor14
+remove (flavor14, 16, 32)
+flavor15
+remove (flavor15, 16, 64)
+============
+56 128 56 128
+flavor11
+remove (flavor11, 8, 16)
+flavor13
+remove (flavor13, 16, 16)
+flavor14
+remove (flavor14, 16, 32)
+flavor15
+remove (flavor15, 16, 64)
+============
+56 128 56 128
+flavor11
+remove (flavor11, 8, 16)
+flavor13
+remove (flavor13, 16, 16)
+flavor14
+remove (flavor14, 16, 32)
+flavor15
+remove (flavor15, 16, 64)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+flavor14
+remove (flavor14, 16, 32)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
+============
+56 128 56 128
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor12
+remove (flavor12, 8, 32)
+flavor13
+remove (flavor13, 16, 16)
+flavor13
+remove (flavor13, 16, 16)
